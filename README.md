@@ -1,5 +1,5 @@
 # Python_Project_Employee_Analytics
-orrection: Replaced incorrect heights with random values between 150-180 cm.
+Correction: Replaced incorrect heights with random values between 150-180 cm.
 Data Cleanup: Ensured consistency and accuracy in the dataset.
 Analysis Tasks and Visualizations
 1. Team Distribution:
