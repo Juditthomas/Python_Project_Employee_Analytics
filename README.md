@@ -44,5 +44,7 @@ Key Insights:
 The company focuses on hiring younger talent, as seen in the large number of employees under 30.
 High salaries are concentrated in key teams like the Los Angeles Lakers and in positions like Small Forward (SF).
 Although older employees tend to have higher salaries, age alone does not strongly influence salary.
+
+
 Tools Used
 Python (pandas, matplotlib, seaborn)
